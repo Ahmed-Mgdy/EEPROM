@@ -1,0 +1,2 @@
+# EEPROM
+internal EEPROM for ATMEGA32
